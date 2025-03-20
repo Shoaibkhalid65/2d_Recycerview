@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <item android:id="@+id/share" android:icon="@drawable/baseline_share_24" app:showAsAction="withText" android:title="Share"/>
+   <item android:id="@+id/add_to_wishlist" android:icon="@drawable/bookmark" app:showAsAction="withText" android:title="Add to wishlist"/>
+   <item android:id="@+id/flag" android:icon="@drawable/baseline_outlined_flag_24" app:showAsAction="withText" android:title="Flag as inappropriate"/>
+</menu>

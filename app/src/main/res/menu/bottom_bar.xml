@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+ <item android:id="@+id/games" android:title="Games" app:showAsAction="always" android:icon="@drawable/google_play_games_svgrepo_com" />
+ <item android:id="@+id/apps" android:title="Apps" app:showAsAction="always" android:icon="@drawable/apps_svgrepo_com" />
+ <item android:id="@+id/search" android:title="Search" app:showAsAction="always" android:icon="@drawable/baseline_search_24" />
+</menu>
